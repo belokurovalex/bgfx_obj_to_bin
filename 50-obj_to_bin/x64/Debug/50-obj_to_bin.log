@@ -1,0 +1,5 @@
+﻿  50-obj_to_bin.cpp
+C:\Users\user\bx\include\bx\file.h(122,78): error C2220: the following warning is treated as an error
+C:\Users\user\bx\include\bx\file.h(122,78): error C2220: 		BX_ALIGN_DECL(16, uint8_t) m_internal[sizeof(FilePath)+sizeof(FileInfo)+16];
+C:\Users\user\bx\include\bx\file.h(122,78): error C2220: 		                                                                           ^
+C:\Users\user\bx\include\bx\file.h(122,78): warning C4324: 'bx::DirectoryReader': structure was padded due to alignment specifier
